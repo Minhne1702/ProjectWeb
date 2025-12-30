@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\Documents\\web\\Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|c:\\users\\thanh\\documents\\web\\lab02\\lab02\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|solutionrelative:lab02\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|c:\\users\\thanh\\documents\\web\\lab02\\lab02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|c:\\users\\thanh\\documents\\web\\lab02\\lab02\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|c:\\users\\thanh\\documents\\web\\lab02\\lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|solutionrelative:lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|c:\\users\\thanh\\documents\\web\\lab02\\lab02\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A992B91-8624-4856-8D61-DB1D0AECF712}|Lab02\\Lab02.csproj|solutionrelative:lab02\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T13:26:16.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T13:24:54.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02\\Program.cs",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Program.cs",
+              "RelativeToolTip": "Lab02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:24:47.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Lab02\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Lab02\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:17:00.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Lab02\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\web\\Lab02\\Lab02\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Lab02\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T13:22:56.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

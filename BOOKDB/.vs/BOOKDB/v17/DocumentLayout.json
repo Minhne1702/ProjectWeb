@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\BOOKDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\migrations\\20251216031149_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\migrations\\20251216031149_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|c:\\users\\admin\\documents\\bookdb\\bookdb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2779789D-CAEC-4D01-B11E-DFF417A7ECDE}|BOOKDB\\BOOKDB.csproj|solutionrelative:bookdb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BOOKDB\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "BOOKDB\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T03:25:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "BOOKDB\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "BOOKDB\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T03:24:30.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BOOKDB\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "BOOKDB\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T03:24:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "BOOKDB\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "BOOKDB\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vyUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T03:23:48.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "BOOKDB\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "BOOKDB\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T03:19:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BOOKDB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BOOKDB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T03:17:09.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BOOKDB\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BOOKDB\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:15:51.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BOOKDB\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BOOKDB\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:13:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251216031149_init.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Migrations\\20251216031149_init.cs",
+              "RelativeDocumentMoniker": "BOOKDB\\Migrations\\20251216031149_init.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Migrations\\20251216031149_init.cs",
+              "RelativeToolTip": "BOOKDB\\Migrations\\20251216031149_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:11:50.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Program.cs",
+              "RelativeDocumentMoniker": "BOOKDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Program.cs",
+              "RelativeToolTip": "BOOKDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:09:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\appsettings.json",
+              "RelativeDocumentMoniker": "BOOKDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\appsettings.json",
+              "RelativeToolTip": "BOOKDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T03:09:48.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BOOKDB\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BOOKDB\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:08:35.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BOOKDB\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Models\\Category.cs",
+              "RelativeToolTip": "BOOKDB\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:07:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BOOKDB\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BOOKDB\\BOOKDB\\Models\\Book.cs",
+              "RelativeToolTip": "BOOKDB\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:06:31.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
